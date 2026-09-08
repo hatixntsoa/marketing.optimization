@@ -1,0 +1,6 @@
+Sale_ID,Product_ID,Customer_ID,Date,Quantity,Sale_Price,Channel
+1,101,2001,2023-01-15,2,50.0,Online
+2,102,2002,2023-01-16,1,75.0,In-Store
+3,103,2001,2023-01-17,3,30.0,Online
+4,104,2003,2023-01-18,1,120.0,In-Store
+5,105,2004,2023-01-19,2,45.0,Online

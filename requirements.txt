@@ -1,0 +1,52 @@
+# Interactive development
+jupyter>=1.1.0
+jupyterlab>=4.0.0
+ipykernel>=6.25.0
+
+# Data handling
+pandas>=2.1.0
+numpy>=1.26.0
+scipy>=1.12.0
+joblib>=1.3.0
+
+# Visualization
+matplotlib>=3.9.0
+seaborn>=0.12.0
+pillow>=10.0.0
+
+# Machine learning
+scikit-learn>=1.3.0
+xgboost>=1.7.0
+lightgbm>=4.0.0
+catboost>=1.2.0
+tensorflow>=2.15.0
+torch>=2.1.0
+
+# Text preprocessing & NLP
+nltk>=3.8.0
+spacy>=3.6.0
+transformers>=5.3.0
+
+# Progress bars
+tqdm>=4.66.0
+
+# Model evaluation & experiment utilities
+optuna>=3.5.0
+
+# Explainable AI
+shap>=0.44.0
+
+# Imbalanced datasets
+imbalanced-learn>=0.11.0
+
+# Data validation
+pydantic>=2.0.0
+
+# Configuration
+python-dotenv>=1.0.0
+
+# Serialization / model formats
+pyyaml>=6.0.0
+
+# HTTP / API interaction
+requests>=2.31.0

@@ -1,0 +1,6 @@
+Customer_ID,Name,Age,Gender,Location,Join_Date,Total_Spent
+2001,Alice,28,Female,New York,2022-05-10,500.0
+2002,Bob,35,Male,Los Angeles,2022-06-15,750.0
+2003,Charlie,22,Male,Chicago,2022-07-20,300.0
+2004,Diana,30,Female,Houston,2022-08-25,600.0
+2005,Eva,27,Female,Phoenix,2022-09-30,450.0
