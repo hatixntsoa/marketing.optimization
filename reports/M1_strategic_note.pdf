@@ -1,0 +1,134 @@
+8.1 SWOT
+
+SWOT signifie :
+
+Lettre	Signification
+S	Strengths = Forces
+W	Weaknesses = Faiblesses
+O	Opportunities = Opportunités
+T	Threats = Menaces
+Strengths — Forces
+
+Question :
+
+Qu'est-ce que l'entreprise gagne grâce à la personnalisation ?
+
+Exemples :
+
+meilleure connaissance des clients ;
+offres plus adaptées ;
+amélioration de la satisfaction ;
+augmentation des ventes ;
+fidélisation des clients.
+Weaknesses — Faiblesses
+
+Exemples :
+
+données parfois incomplètes ;
+coût de mise en place ;
+complexité technique ;
+risque de biais dans les données.
+Opportunities — Opportunités
+
+Exemples :
+
+intelligence artificielle ;
+automatisation ;
+nouveaux canaux de communication ;
+recommandations personnalisées.
+Threats — Menaces
+
+Exemples :
+
+protection des données ;
+RGPD ;
+trop de messages envoyés aux clients ;
+concurrence.
+9. 📊 ÉTAPE 5 — Marketing 5P
+
+Tu dois expliquer les 5P :
+
+Product
+Price
+Place
+Promotion
+People
+1. Product — Produit
+
+Les données produits permettent de connaître :
+
+Product_Name
+Category
+Brand
+
+On peut donc savoir quels produits intéressent les clients.
+
+2. Price — Prix
+
+On utilise :
+
+Price
+Sale_Price
+Total_Amount
+Total_Spent
+
+Cela permet d'étudier le comportement d'achat selon le prix.
+
+3. Place — Distribution
+
+On regarde :
+
+Channel
+
+Par exemple :
+
+Online
+Store
+
+Cela permet de savoir où les clients achètent.
+
+4. Promotion
+
+Avec les données de vente et éventuellement les données marketing de Person 4, on peut analyser les campagnes et les canaux qui fonctionnent le mieux.
+
+5. People
+
+C'est ici que la segmentation des clients intervient.
+
+On peut utiliser :
+
+Age
+Gender
+Location
+Total_Spent
+Tenure_days
+
+pour créer différents groupes de clients.
+
+10. 🚶 ÉTAPE 6 — Customer Journey
+
+Tu dois expliquer le parcours du client.
+
+Très simplement :
+
+Discovery → Conversion → Retention
+Discovery
+
+Le client découvre l'entreprise ou le produit.
+
+Conversion
+
+Le client achète.
+
+Retention
+
+Le client revient acheter.
+
+Tu expliques ensuite quelles données permettent de mesurer chaque étape.
+
+Par exemple :
+
+Étape	Données utiles
+Discovery	Channel / données marketing
+Conversion	Date, Quantity, Sale_Price
+Retention	Customer_ID, Date, Total_Spent, fréquence d'achat
