@@ -1,0 +1,6 @@
+Customer_ID,Cluster,Churn_Probability,Churn_Prediction,Risk_Segment
+2001,2.0,0.0706,0,Low
+2002,0.0,0.1411,0,Medium
+2003,1.0,0.1331,0,Low
+2004,0.0,0.1913,0,High
+2005,Unknown,0.8683,1,High
