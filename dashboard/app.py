@@ -23,16 +23,18 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-st.markdown("""
-<style>
-    .block-container {
-        padding-top: 0rem;
-        padding-bottom: 0rem;
-        padding-left: 0rem;
-        padding-right: 0rem;
-    }
-</style>
-""", unsafe_allow_html=True)   
+# Only strip padding when embedded in an iframe
+if st.query_params.get("embed") == "true":
+    st.markdown("""
+    <style>
+        .block-container {
+            padding-top: 0rem;
+            padding-bottom: 0rem;
+            padding-left: 0rem;
+            padding-right: 0rem;
+        }
+    </style>
+    """, unsafe_allow_html=True) 
 
 st.set_page_config(page_title="Marketing Optimization Dashboard", layout="wide")
 
